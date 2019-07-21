@@ -831,7 +831,27 @@ footer {
   width: 240px;
 }
 }
+
+
+.ad-600x100 {
+  margin: 50px 0;
+  width: 100%;
+  /* height: 200px; */
+  padding: 1em;
+  /* border: solid red 1px; */
+}
+
+.ad-600x100-inner {
+
+}
+
+.blog-color a {
+  color: #55c0a3;
+}
   
+.blog-small-color {
+  background-color: #55c0a3;
+}
   
   
   
